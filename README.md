@@ -3,3 +3,4 @@
 docker compose up --build
 ```# deploy
 # deploy
+# deploy
