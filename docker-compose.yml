@@ -16,6 +16,8 @@ services:
   backend:
     build:
       context: ./backend
+    networks: 
+      - dev
   frontend:
     build:
       context: ./frontend
